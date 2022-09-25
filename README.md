@@ -23,10 +23,6 @@
 
 - [Website MDN (Java Script)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
-### Video
-
-- [The final project (todo list app)](https://www.youtube.com/watch?v=JS5w4rUbjQE&t=12766s)
-
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
