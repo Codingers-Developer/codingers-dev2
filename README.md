@@ -17,8 +17,6 @@
 - [Tailwindcss](https://tailwindcss.com//)
 - [HeadlessUI](https://headlessui.dev/)
 
-## Referensi
-
 ### Artikel
 
 - [Website MDN (Java Script)](https://developer.mozilla.org/en-US/docs/Web/HTML)
