@@ -38,4 +38,4 @@
 ![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![vercelbadge](https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg)
 
-Dibuat menggunakan NextJS. Kode berlisensi dibawah [MIT License](https://github.com/faruqmaulana/rose-theme-application/main/LICENSE)
+Dibuat menggunakan NextJS
