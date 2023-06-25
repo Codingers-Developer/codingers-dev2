@@ -1,4 +1,4 @@
-# ROSE THEME APPLICATION
+# VIOLET THEME APPLICATION
 
 ## Tampilan Aplikasi
 
