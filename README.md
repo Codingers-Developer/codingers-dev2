@@ -8,7 +8,7 @@
 
    <!-- prettier-ignore -->
    <div align="center">
-    <a href="https://your-activity.vercel.app" target="_blank" style="background-color: #FC98A5; color: white; padding: 5px; border-radius: 5px;">Ini Website Nya</a>
+    <a href="/" target="_blank" style="background-color: #FC98A5; color: white; padding: 5px; border-radius: 5px;">Ini Website Nya</a>
    <div>
 
 ## Teknologi yang di gunakan
