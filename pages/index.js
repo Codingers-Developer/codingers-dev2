@@ -122,7 +122,7 @@ export default function Home() {
               msgIsShow ? "mb-0" : "mb-6"
             }`}
           >
-            Todo List APP
+            <a href="https://github.com/Codingers-Developer">Todo List APP</a>
           </h1>
           {msg && (
             <Transition
