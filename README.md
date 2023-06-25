@@ -4,7 +4,7 @@
 
 1. Tampilan depan aplikasi
 
-   ![Cara download 1](public/assets/rose-theme1.png)
+   ![Cara download 1](public/assets/violet-theme-1.png)
 
    <!-- prettier-ignore -->
    <div align="center">
